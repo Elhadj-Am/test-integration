@@ -12,7 +12,7 @@
     <repositories>
         <repository>
             <id>my-internal-site</id>
-            <url>/root/box/projects</url>
+            <url>root/box/projects</url>
         </repository>
     </repositories>
 
