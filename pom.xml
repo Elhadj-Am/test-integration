@@ -12,7 +12,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>/root/box/projects</url>
+         <url>scp://root/box/projects</url>
        </repository>
    </distributionManagement>
 
