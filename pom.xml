@@ -8,14 +8,9 @@
     <artifactId>Maven-ART</artifactId>
     <version>1.0-SNAPSHOT</version>
 
-
-    <repositories>
-        <repository>
-            <id>my-internal-site</id>
-            <url>root/box/projects</url>
-        </repository>
-    </repositories>
-
+    <packaging>jar</packaging>
+    <name>mkyong-core</name>
+    <url>http://maven.apache.org</url>
 
     <dependencies>
         <dependency>
